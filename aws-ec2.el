@@ -199,6 +199,8 @@ Host %s
 
 (tblui-define
  aws-instances
+ "aws-instances"
+ "aws-instances mode"
  aws-instances-get-tabulated-list-entries
  [("Repository" 10 nil)
   ("InstType" 10 nil)
